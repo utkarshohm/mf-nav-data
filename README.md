@@ -29,7 +29,8 @@ I have obtained this data by aggregating data from multiple sources, collected b
 I used mongoDB to store all this time series data. My [other github repo](https://github.com/utkarshohm/mf-models) talks more about it.
 
 ## Related repos
-I have open sourced the [library](https://github.com/utkarshohm/mf-platform-bse) I used to build my mutual fund transaction platform on top of Bombay Stock Exchange StarMF.
+* [Library to build a mutual fund transaction platform using the Bombay Stock Exchange StarMF platform and API](https://github.com/utkarshohm/mf-platform-bse)
+* [Historical NAV/price/time-series data of mutual funds and popular benchmark indices in India](https://github.com/utkarshohm/mf-nav-data)
 
 ## Need help setting this up or want to contribute?
 Feel free to raise an issue and I will get back asap
